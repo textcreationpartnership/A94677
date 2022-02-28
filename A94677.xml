@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable, the supreme authority of this nation, the Commons of England in Parliament assembled. The humble petition of firm and constant friends to the Parliament and Common-wealth, presenters and promoters of the large petition of September 11. MDCXLVIII.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94677</idno>
+            <idno type="STC">Wing T1710</idno>
+            <idno type="STC">Thomason 669.f.13[73]</idno>
+            <idno type="STC">ESTC R211160</idno>
+            <idno type="EEBO-CITATION">99869893</idno>
+            <idno type="PROQUEST">99869893</idno>
+            <idno type="VID">162969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable, the supreme authority of this nation, the Commons of England in Parliament assembled. The humble petition of firm and constant friends to the Parliament and Common-wealth, presenters and promoters of the large petition of September 11. MDCXLVIII.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Complains of Parliament's censorhip of the press, nominally aimed at malignants but really punishing puritans, as Lawrence Sandars (God's Love to Mankind), John Lilburn, William Larner, Richard Overton, &amp;c. The Parliament has had much support from unlicensed printing. Especially complains of the punishment of whipping -- Cf. Steele.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Brief account of the reception of the petition signed: Hen. Scobell Cler. Parl. Dom. Com.</note>
+                  <note>Annotation on Thomason copy: "Jan. 19 1648.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of the press --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162969:1" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONOVRABLE, THE SUPREME AVTHORITY OF THIS NATION.
+THE COMMONS OF ENGLAND
+in Parliament aſsembled.
+The humble Petition of firm and conſtant Friends to the Parliament and Common-wealth, Preſenters and Promoters of the late Large Pa<g ref="char:EOLhyphen"/>tition
+of <date>September 11. MDCXLVIII.</date>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat having ſeriouſly conſidered how many large and fair opportunities this honourable Houſe hath had within theſe eight yeers laſt paſt
+to have made this Nation abſolute free and happy; and yet that until this time, every of thoſe opportunies have (after ſome ſhort ſpace
+of hope) faded, and but altered, if not increaſed our bondage.</p>
+            <p>When we call to mind what extraordinary things the Army undertook (and this honourable Houſe approved) in behalf of the liber<g ref="char:EOLhyphen"/>ties
+of the people, in the yeer 1647. and that nevertheleſs, the firſt fruits of their great and unexpected ſucceſs, was a more oppreſſive Ordinance
+for enforcing of Tyths, than ever had bin before, and which hath bin ſeverely executed, and is ſtill continued, to the extreme vexation of Friends,
+and encouragement of Pulpit Incendiaries; And how that great and wonderful opportunities waſted it ſelf away in contending with, and im<g ref="char:EOLhyphen"/>priſoning
+of cordial Friends, or in tampering with known enemies, and at length ended in a moſt dangerous and bloudy war; whereas rightly
+applied, it might have given peace and ſecurity to the Nation for many Generations.</p>
+            <p>Theſe things conſidered, although we exceedingly rejoyced in your juſt and excellent Votes of the 4. of this inſtant <hi>Ianuary,</hi> as a people who
+had long ſuffered the reproches of Sectaries &amp; Levellers, for maintaining the ſupreme original of all juſt power to be in the people, &amp; the ſupreme
+Authority of this Nation to be in this honourable Houſe, (which our burnt Petitions, and that of <hi>Sept.</hi> 11. do fully witneſs. Yet ſince we under<g ref="char:EOLhyphen"/>ſtand,
+that within few daies after you admitted a meſſage from the Houſe of Lords, and gave an accuſtomed reſpect thereunto. We have bin
+very much troubled, how already the ſame doth eſſentially derogate from your foreſaid Votes.</p>
+            <p>And ſince alſo, we have ſeen a printed Warrant of his Excellency the Lord General <hi>Fairfax,</hi> directed to his Marſhal General, for ſuppreſſing
+of unlicenſed Books and Pamphlets, authoriſing him (upon the oath of one witneſs) to take all perſons offending into cuſtody, and inflict up<g ref="char:EOLhyphen"/>on
+them ſuch corporal puniſhments, and levie ſuch fines upon them, as your Ordinances impoſe; and not to diſcharge them, until after pay<g ref="char:EOLhyphen"/>ment
+and puniſhment: And further, to make diligent ſearch in all places where the ſaid Marſhal ſhall think meet, for unlicenſed printing preſ<g ref="char:EOLhyphen"/>ſes,
+employed in printing ſcandalous, unlicenſed pamphlets. Books, &amp;c. and to ſeiſe and carry away ſuch printing preſſes, &amp;c. And likewiſe to
+make diligent ſearch in all ſuſpected printing houſes, ware-houſes, and other ſhops and places whatſoever, for ſuch unlicenſed books, &amp;c. And in
+caſe of oppoſition, to break open (according to your Ordinances) all dores and locks, and to apprehend all perſons ſo oppoſing, and take them
+into cuſtody, till they have given ſatisfaction therein. And all this by vertue of an order of yours of the fift of this inſtant <hi>Ianuary.</hi> Since we
+have ſeen this, we profeſs, we cannot but already fear the iſſue and conſequence of thoſe excellent Votes, nothing more dangerous to a people,
+than the miſ-application of their ſupreme entruſted Authority; and therefore we entreat herein to be excuſed, though we appear herein, as in
+a cauſe of very great Importance.</p>
+            <p>For what-ever ſpecious pretences of good to the Common-wealth, have bin deviſed to over-aw the Preſs, yet all times fore-gone will mani<g ref="char:EOLhyphen"/>feſt,
+it hath ever uſhered in a tyrannie; mens mouths being to be kept from making noiſe, whilſt they are robd of their liberties; So was it in
+the late Prerogative times before this Parliament, whilſt upon pretence of care of the publike, Licenſers were ſet over the Preſs, Truth was
+ſuppreſſed, the people thereby kept ignorant, and fitted only to ſerve the unjuſt ends of Tyrants and Oppreſſers, whereby the Nation was en<g ref="char:EOLhyphen"/>ſlaved:
+Nor did any thing beget thoſe oppreſſions ſo much oppoſition, as unlicenſed Books and Pamphlets.</p>
+            <p>A ſhort time after the begining of this Parliament, upon pretenſe of publike good, and at the ſolicitation of the Company of Stationers (who
+in all times have bin officiouſly inſtrumental unto Tyrannie) the Preſs again (notwithſtanding the good ſervice it immediately before had done)
+was moſt ungratefully committed to the cuſtody of Licenſers, when though ſcandalous Books from or in behalf of the Enemy then at <hi>Oxford</hi>
+was the pretended occaſion; yet the firſt that ſuffered was M. <hi>Lawrence Sanders,</hi> for Printing without licenſe, a book intituled, <hi>Gods Love to
+Mankind;</hi> and not long after, M. <hi>Iohn Lilburn,</hi> M. <hi>William Larnar,</hi> and M. <hi>Richard Overton,</hi> and others, about books diſcovering the then
+approching Tyrannie; whilſt ſcandalous Pamphlets nevertheleſs abounded, and did the greater miſchief, in that Licenſers have never bin ſo
+free to paſs, as good men have bin forward to compile proper and effectual anſwers to ſuch books and pamphlets: And whether Tyrannie did
+ſoon follow thereupon, the courſes you were forced unto in oppoſition, and the neceſſities you were put upon for your preſervation, will moſt
+cleerly demonſtrate. And if you, and your Army ſhall be pleaſed to look a little back upon affairs, you will find you have bin very much
+ſtrengthned all along by unlicenſed Printing; yea, that it hath done (with greateſt danger to the doers) what it could to preſerve you, when li<g ref="char:EOLhyphen"/>cenſed
+did its utmoſt to deſtroy you: and we are very confident, thoſe very excellent and neceſſary Votes of yours fore-mentioned, had made
+you a multitude of enemies, if unlicenſed printing had not prepared and ſmoothed your way for them, whereas now they are received with
+great content and ſatisfaction.</p>
+            <p>And generally, as to the whole courſe of printing, as juſtly in our apprehenſions, may Licenſers be put over all publike or private Teach<g ref="char:EOLhyphen"/>ings,
+and Diſcourſes, in Divine, Moral, Natural, Civil, or Political things, as over the Preſs; the liberty whereof appears ſo eſſential unto Free<g ref="char:EOLhyphen"/>dom,
+as that without it, its impoſſible to preſerve any Nation from being liable to the worſt of bondage; for what may not be done to that
+people who may not ſpeak or write, but at the pleaſure of Licenſers?</p>
+            <p>As for any prejudice to Government thereby, if G<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vernment be juſt in its Conſtitution, and equal in its diſtributions, it will be good, it
+not abſolutely neceſſary for them, to hear all voices and judg<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments, which they can never do, but by giving freedom to the Preſs; and in caſe
+any abuſe their authority by ſcandalous Pamphlets, they will never want able Advocates to vindicate their innocency. And therefore all things
+being duely weighed. to refer all Books and Pamphlets to the judgement, diſcretion, or affection of Licenſers, or to put the leaſt reſtraint upon
+the Preſs, ſeems altogether inconſiſtent with the good of the Common-wealth, and expreſly oppoſite and dangerous to the liberties of the peo<g ref="char:EOLhyphen"/>ple,
+and to be carefully avoided, as any other exorbitancy or prejudice in Government.</p>
+            <p>And being ſo, we beſeech you to conſider how unreaſonable it is for every man or woman to be liable to puniſhment, penal or corporal, upon
+one witneſs in matters of this Nature, for compiling, printing, ſelling or diſperſing of Books and Pamphlets, nay to deſerve even whipping (as
+the Laſt yeers Ordinance, an Engine fited to a Perſonal Treaty) doth provide a puniſhment, as we humbly conceive, fit only for ſlaves or bond<g ref="char:EOLhyphen"/>men.
+But that this honourable Houſe, that is now by an extraordinary means freed from that major part, (which degenerating from the true
+Intereſt of the people, were the unhappy authors of that Ordinance) and reduced to that minor part, which we alwaies hoped did really op<g ref="char:EOLhyphen"/>poſe
+the ſame, ſhould now approve thereof, and of all other Ordinances of like nature; and not onely ſo, but in caſes ſo meerly Civil, to refer
+the execution thereof to a Military power: This is that which in the preſent ſenſe and conſequence thereof, afflicts us above meaſure; becauſe
+according to this rule, we may we know not how ſoon, be reduced under a military jurisdiction, which we humbly conceive, we ought not to
+<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and which above any thing in this world, we ſhall deſire in this and all other caſes for ever to avoid.</p>
+            <p>And therefore we moſt earneſtly entreat, Firſt, That as you have voted your ſelves the ſupreme Authority, ſo you will exactly preſerve the
+ſame entire in it ſelf, without intermixing again with any other whatſoever.</p>
+            <p>Secondly, That you will preciſely hold your ſelves to the ſupreme end, the Freedom of the People; as in other things, ſo in that neceſſary
+and eſſential part of ſpeaking, writing, printing, and publiſhing their minds freely; without ſeting of Maſters, Tutors, and Controulers over
+them; and for that end, to revoke all Ordinances and Orders to the contrary.</p>
+            <p>Thirdly, That you will fix us onely in a Civil Juriſdiction, refering the Military to Act diſtinct, and within it ſelf, except in caſes of warlike
+oppoſition to Civil Authority.</p>
+            <p>Fourthly, That you will recal that oppreſſive Ordinance for Tyths, upon treble damages; that ſo, as we have rejoyced in the notion, we
+may not have cauſe to grieve, but to rejoyce alſo in the exerciſe of your ſupreme Authority; and that the whole Nation in this bleſſed opportu<g ref="char:EOLhyphen"/>nity
+may receive a full reward of true Freedom for its large expenſe of bloud and treaſure, and by your Wiſdom and Fidelity, be made happy to
+all Future Generations.</p>
+            <closer>
+               <dateline>
+                  <date>Die Jovis, January 18. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="order">
+            <p>THe Houſe being informed that divers Inhabitants within the Citie of <hi>London</hi> and Borough of <hi>Southwark,</hi> were at the Dore; they were cal<g ref="char:EOLhyphen"/>led
+in, and then preſented a Petition to this Houſe; which after the Petitioners were withdrawn, was read, and was entituled, <hi>The humble Pe<g ref="char:EOLhyphen"/>tition
+of firm and conſtant friends to Parliament and Common-wealth, the Preſenters and Promoters of the late large Petition of</hi> Sept. 11. 1648.</p>
+            <p>Ordered by the Commons aſſembled in Parliament, that the ſaid Petition be referred to the Committee appointed yeſterday to conſider of Petiti<g ref="char:EOLhyphen"/>ons
+of this nature.</p>
+            <closer>
+               <signed>Hen. Scobell Cler. Parl. Dom. Com,</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <p>
+               <hi>The Petitioners being again called in, M. Speaker by command of this Houſe gave them this anſwer. Gentlemen,</hi> The Houſe have read
+your Petition, and have referred it to a Committee to conſider of the matters of conſequence therein; and have taken notice of your continued good
+affections to this Houſe, and they have commanded me to give you thanks for your good affections, and I do accordingly give you thanks for your
+good affections.</p>
+            <closer>
+               <signed>Hen. Scobell Cleric. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
